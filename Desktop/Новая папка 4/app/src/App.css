@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    width: 100%;
+    height: 100vh;
+    background-image: url("./a.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
